@@ -18,6 +18,5 @@ public class Main {
         for (IExercise e : p.exerciseList()){
             System.out.println(e.getImgString());
         }
-        Fuckers f = new Fuckers();
     }
 }
